@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+PyMuPDF
+python-dotenv
+pytest
+httpx
+reportlab
